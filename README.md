@@ -1,6 +1,6 @@
 https://tinyurl.com/devopslaba2
 
-
+https://github.com/1DS22CS064-SujithCM/lab22.git
 
 
 
